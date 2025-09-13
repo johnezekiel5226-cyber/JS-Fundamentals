@@ -1,2 +1,2 @@
-let naf = "Javascript is amazing";
+let naf = "JavaScript is amazing";
 console.log(naf);
